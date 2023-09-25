@@ -3,6 +3,7 @@ module github.com/micromdm/scep/v2
 go 1.21
 
 require (
+	golang.org/x/net v0.15.0
 	github.com/boltdb/bolt v1.3.1
 	github.com/go-kit/kit v0.13.0
 	github.com/gorilla/mux v1.8.0
